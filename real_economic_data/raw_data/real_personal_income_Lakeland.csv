@@ -1,0 +1,10 @@
+MARPI Real personal income by MSA 1
+MARPI Real personal income by MSA 1
+Metropolitan Statistical Area
+GeoFips,GeoName,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023
+29460,"Lakeland-Winter Haven, FL (Metropolitan Statistical Area)",20989347,20608418,21570276,21848261,21701210,21723076,22225556,23096499,23481404,24956934,26198267,27866969,30625270,31679397,30510958,31051846
+
+Legend/Footnotes
+1. Real personal income for metropolitan areas is personal income divided by the RPPs and the national PCE price index. The result is a constant dollar (using 2017 as the base year) estimate of real personal income. Calculations are performed on unrounded data.
+"  Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget (OMB) bulletin no. 20-01 issued March 6, 2020."
+"  Last updated: December 12, 2024-- new statistics for 2023; revised statistics for 2019-2022."
