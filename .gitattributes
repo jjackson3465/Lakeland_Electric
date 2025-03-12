@@ -1,0 +1,2 @@
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+prophet_files/*.csv filter=lfs diff=lfs merge=lfs -text
