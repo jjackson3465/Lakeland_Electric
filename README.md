@@ -1,3 +1,3 @@
 Lakeland Electrical Capstone Project
 
-WIP
+Up to date models are located in the research notebook.
